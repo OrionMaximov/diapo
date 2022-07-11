@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#diapo{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
